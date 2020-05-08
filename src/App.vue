@@ -1,28 +1,5 @@
 <template>
   <div id="app">
-    <Users />
-  </div>
-</template>
-
-<script>
-import Users from './components/Users.vue'
-
-export default {
-  name: 'app',
-  components: {
-    Users
-  }
-}
-</script>
-
-<style lang="sass">
-@import "~bulma/bulma.sass"
-</style>
-
-
-
-<template>
-  <div id="app">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <nav class="navbar" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
@@ -58,7 +35,9 @@ export default {
        </div>
      </div>
    </nav>
+
    <router-view />
+   
    <footer class="footer">
     <div class="content has-text-centered">
       <p>
