@@ -4,26 +4,27 @@
 			<div class="hero-body">
 				<div class="container">
 					<h1 class="title is-2">
-						Highlights About... Me!
+						Who am I?
 					</h1>
 				</div>
 			</div>
 		</section>
-		<section class="section">
-			<div class="container is-fluid">
-				<div class="columns is-multiline">
-						<div class="column is-one-third" v-for="project in projects" v-bind:key="project.slug">
-							<post-card v-bind="project"></post-card>
-						</div>				
+        <section>
+			<div class="container">
+				<div class="columns">
+					<div class="column">
+						<content class="is-large">
+							<h1 class="subtitle is-3">Hi</h1>
+						</content>
+					</div>
+					<div class="column">
+						<content class="is-large">
+							<h1 class="subtitle is-3">Hi</h1>
+						</content>
+					</div>
 				</div>
 			</div>
-		</section>
-        <section>
-            <content class="is-large">
-                <h1>Hi</h1>
-            </content>
         </section>
-
   </div>
 </template>
 

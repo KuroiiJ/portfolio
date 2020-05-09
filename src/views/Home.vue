@@ -5,11 +5,13 @@
             <div class="container">
                 <div class="columns">
                     <div class="column is-one-third">
-                        <img src="../assets/chloe-trans.png" height="150" >
+                        <figure class="image is-300x300">
+                          <img class="is-rounded" src="../assets/chloe-trans.png">
+                        </figure>
                     </div>
                     <div class="column">
                         <h1 class="title is-2"> <span class="multicolortext"><br/><br/>I'm Chloé Jandsten</span></h1>
-                        <h2 class="subtitle is-3">Enthusiastic. Passionate. Reliable.</h2>
+                        <h2 class="subtitle is-3">Enthusiastic. Passionate. Experienced.</h2>
                         <h3 class="subtitle is-4">I'm an excitable developer based in NYC.</h3>
                     </div>
                     </div>
