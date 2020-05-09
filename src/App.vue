@@ -4,7 +4,7 @@
     <nav class="navbar" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <router-link class="navbar-item" to="/">
-          <img src="./assets/chloe-logo.png" height="75">
+          <img src="./assets/vertical-logo.png" height="100">
         </router-link>
 
         <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample" :class="{ 'is-active': showNav }" @click="showNav = !showNav">
