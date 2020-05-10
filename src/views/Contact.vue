@@ -9,32 +9,40 @@
 				</div>
 			</div>
 		</section>
+
+
+    
+
 		<section class="section">
 			<div class="container">
 				<div class="columns is-centered">
 					<div class="column is-two-thirds">
-						<div class="box">					
-							
-              <h3 class="is-size-4 has-text-weight-medium">
-								<a href="https://www.linkedin.com/in/chloejandsten/">Connect on LinkedIn</a>
-							</h3>
-							
-              <h3 class="is-size-4 has-text-weight-medium">
-								<a href="mailto:chloe.jandsten@gmail.com">Reach out through email</a>
-							</h3>
-							
-							<h3 class="is-size-4 has-text-weight-medium">
-								<a href="https://twitter.com/captainkuroii">See Star Wars thoughts on Twitter</a>
-							</h3>
-						
-							<h3 class="is-size-4 has-text-weight-medium">
-								<a href="https://github.com/KuroiiJ">See more code on Github</a>
-							</h3>
-						</div>
+						<div class="box">		
+              <p class="buttons">
+                <button class="button">
+
+                  <span><a href="https://github.com/KuroiiJ"><font-awesome-icon :icon="['fab', 'github']" />  GitHub </a></span>
+                </button>
+                <button class="button">
+                  <span><a href="https://twitter.com/captainkuroii"> <font-awesome-icon :icon="['fab', 'twitter']" /> Twitter</a></span>
+                </button>
+                <button class="button">
+                  <span><a href="mailto:chloe.jandsten@gmail.com"> <font-awesome-icon :icon="['fas', 'paper-plane']" /> Email Me</a></span>
+                </button>
+                <button class="button">
+                  <span><a href="https://www.linkedin.com/in/chloejandsten/"> <font-awesome-icon :icon="['fab', 'linkedin']" /> LinkedIn</a></span>
+                </button>
+                <button class="button">
+                  <span><a href="https://www.instagram.com/hondo_the_doggo/"> <font-awesome-icon :icon="['fab', 'instagram']" /> Dog Instagram</a></span>
+                </button>
+              </p>
+            </div>
 					</div>
 				</div>
 			</div>
-		</section>
+		</section>			
+
+
 	</div>
 </template>
 
