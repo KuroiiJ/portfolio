@@ -3,7 +3,7 @@
 		<router-link :to="'/project/'+slug">
 		<div class="card">
 			<div class="card-image">
-				<figure class="image is-square">
+				<figure class="image is-250x250">
 					<img :src="image" alt="Placeholder image">
 				</figure>
 			</div>
