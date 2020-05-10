@@ -6,7 +6,7 @@
                 <div class="columns">
                     <div class="column is-one-third">
                         <figure class="image is-300x300">
-                          <img class="is-rounded" src="../assets/chloe-trans.png">
+                          <img class="is-rounded" src="../assets/c-and-h.jpg">
                         </figure>
                     </div>
                     <div class="column">
