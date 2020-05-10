@@ -12,9 +12,9 @@
                     <div class="column">
                         <h1 class="title is-2"> <span class="multicolortext">I'm Chloé Jandsten</span></h1>
                         <br />
-                        <h3 class="subtitle is-4">I am a NYC-based fullstack software engineer with a background in developer marketing, account management, and start-ups.</h3>
+                        <h3 class="subtitle is-3">I am a NYC-based fullstack software engineer with a background in developer marketing, account management, and start-ups.</h3>
                         <br />
-                        <h3 class="subtitle is-4">Some tech I've been into:</h3>
+                        <h3 class="subtitle is-4">Some tech I'm into:</h3>
                         <div class="tags are-medium">
                           <span class="tag is-primary is-light">Javascript</span>
                           <span class="tag is-link is-light">Node.js</span>
