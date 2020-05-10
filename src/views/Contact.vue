@@ -14,11 +14,14 @@
     
 
 		<section class="section">
+		<h2 class="title is-3 has-text-weight-medium has-text-centered">
+				Where to find me:
+			</h2>
 			<div class="container">
 				<div class="columns is-centered">
-					<div class="column is-two-thirds">
+					<div class="column is-three-fifths">
 						<div class="box">		
-              <p class="buttons">
+              <p class="buttons is-centered">
                 <button class="button">
 
                   <span><a href="https://github.com/KuroiiJ"><font-awesome-icon :icon="['fab', 'github']" />  GitHub </a></span>
