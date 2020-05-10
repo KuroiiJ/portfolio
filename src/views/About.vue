@@ -3,9 +3,22 @@
     <section class="hero is-medium is-info is-bold">
 			<div class="hero-body">
 				<div class="container">
-					<h1 class="title is-2">
-						Highlights
-					</h1>
+					<div class="columns is-vcentered is-centered">
+						<div class="column is-narrow">
+							<figure class="image is-128x128">
+								<img class="is-rounded" src="../assets/chloe-trans.png">
+							</figure>
+						</div>
+					
+					<div class="column is-narrow">
+					<h1 class="title is-2">More About Me</h1>
+					</div>
+					</div>
+                    
+                    
+                        
+                    
+                    
 				</div>
 			</div>
 		</section>
@@ -13,6 +26,7 @@
 			<h2 class="title is-3 has-text-weight-medium has-text-centered">
 				What I Bring
 			</h2>
+				
 			<div class="container">
 				<div class="columns">
 					<div class="column">
@@ -28,10 +42,10 @@
 					<div class="column">
 						<div class="box">
 							<h3 class="title is-4 has-text-weight-medium">
-								Full Stack Development
+								Passion
 							</h3>
 							<p>
-								Excited to work across the stack and solve engineering challenges at the right time and place. 
+								My enthusiasm for work is unmatched.
 							</p>
 						</div>
 					</div>
