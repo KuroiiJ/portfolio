@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<section class="hero is-medium is-info is-bold">
+		<section class="hero is-small is-info is-bold">
 			<div class="hero-body">
 				<div class="container">
 					<h1 class="title is-2">
@@ -15,7 +15,7 @@
 
 		<section class="section">
 		<h2 class="title is-3 has-text-weight-medium has-text-centered">
-				Where to find me:
+				Get in touch with me!
 			</h2>
 			<div class="container">
 				<div class="columns is-centered">

@@ -20,5 +20,9 @@ Axios.defaults.headers.common = {'Authorization': `Bearer ` + apiKey}
 export default{
   getProjects() {
     return Axios.get()
+  },
+  getProject(slug) {
+    console.log("asdkfjaskl")
+    return Axios.get("?filterByFormula={Slug}='" + slug + "'")
   }
 }

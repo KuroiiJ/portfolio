@@ -43,7 +43,6 @@
 			async function getProjects() {
                 
 				try{
-                    console.log("HELLO")
 					const response = await ProjectsService.getProjects()
 					console.log(response.data.records)
 					self.airtableResponse = response.data.records
