@@ -143,8 +143,8 @@
 							<li>Rogue One</li>
 							<li>Return of the Jedi</li>
 							<li>A New Hope</li>
-							<li>Animated Clone Wars</li>
-							<li>Prequels / Rebels</li>
+							<li>Rebels (animated)</li>
+							<li>Clone Wars (animated)</li>
 						</ul>
 					</div>
 				</div>
