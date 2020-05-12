@@ -100,8 +100,10 @@ footer {
  bottom: 0;
  width: 100%;
 }
+
 </style>
 
 <style lang="sass">
+$info: #00CED1;
 @import "~bulma/bulma.sass"
 </style>

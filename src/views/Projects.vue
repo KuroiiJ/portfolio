@@ -1,13 +1,21 @@
 <template>
 	<div>
-		<section class="hero is-medium is-info is-bold">
+		<section class="hero is-small is-info is-bold">
 			<div class="hero-body">
 				<div class="container">
-					<h1 class="title is-2">
-						My Top Projects
-					</h1>
+					<div class="columns is-vcentered is-centered">
+					<div class="column is-narrow">
+						<figure class="image is-128x128">
+							<img class="is-rounded" src="../assets/chloe-trans.png">
+						</figure>
+					</div>
+				
+				<div class="column is-narrow">
+				<h1 class="title is-2">Projects</h1>
 				</div>
+				</div> 
 			</div>
+		</div>
 		</section>
 		<section class="section">
 			<div class="container is-fluid">

@@ -11,7 +11,7 @@
 					</div>
 				
 				<div class="column is-narrow">
-				<h1 class="title is-2">More About Me</h1>
+				<h1 class="title is-2">About Me</h1>
 				</div>
 				</div> 
 			</div>
