@@ -18,9 +18,25 @@
 		</div>
 	</section>
 
+
+	<section class="section has-background-light">
+		<div class="container">
+			<h2 class="title is-3 has-text-weight-medium has-text-centered">
+				Pitch?
+
+			</h2>
+			<p>
+			After several years working near exclusively with developers, focused on marketing a developer tool to developers, and attending developer events;
+			I realized that somewhere along the way I'd developed a desire to step into the world I'd been auditing.  
+			</p>
+			
+		</div>
+			
+	</section>
+
 	<section class="section">
 		<h2 class="title is-3 has-text-weight-medium has-text-centered">
-			What I Bring
+			Personal Values
 		</h2>
 			
 		<div class="container">
@@ -28,40 +44,61 @@
 				<div class="column  ">
 					<div class="box">
 						<h3 class="title is-4 has-text-weight-medium">
-							Courage
+							Have a Voice
 						</h3>
 						<p>
-							I've learned in the importance of speaking up. Problems are not solved by hiding from them, and questions can't be answered if you don't ask. I strive to be the kind of leader that I want to work with. 
+							Problems are not solved by hiding from them, and questions can't be answered if you don't ask. If you're in a conversation, you're there for a reason and shouldn't hesitate to contribute. Every voice is important.
 						</p>
 					</div>
 				</div>
 				<div class="column">
 					<div class="box">
 						<h3 class="title is-4 has-text-weight-medium">
-							Passion
+							Bring Passion
 						</h3>
 						<p>
-							My enthusiasm for my work is unmatched. Every single day I meet challenges head on, delight when given the opportunity to grow, and never loose my optimism. 
+							I pour myself into what I care about. My enthusiasm for life is unmatched and each day I meet challenges head on, delight if given the opportunity to learn and grow, and never loose my optimism. 
 						</p>
 					</div>
 				</div>
 				<div class="column">
 					<div class="box">
 						<h3 class="title is-4 has-text-weight-medium">
-							Experience
+							Understand Impact
 						</h3>
 						<p>
-							5 years of startup experience means I come to the table understanding the real impact of individual choices, deeply value an agile culture, and push to do things the right way rather than the fast way. 
+							After many years of startup experience, I come to the table understanding the real impact of individual choices and push to do things the right way rather than the fast way. 
 						</p>
 					</div>
-				</div>			
+				</div>
+				<div class="column">
+					<div class="box">
+						<h3 class="title is-4 has-text-weight-medium">
+							Be Agile
+						</h3>
+						<p>
+							My approach to life is to have a bias towards action. Rather than waste time dreading something, I'd rather get it done or figure out what I need in order to get it done. 
+						</p>
+					</div>
+				</div>
+				<div class="column">
+					<div class="box">
+						<h3 class="title is-4 has-text-weight-medium">
+							Invest in Inclusivity
+						</h3>
+						<p>
+						The more diverse voices are heard at the table, the better a company will be - Full Stop. I deeply believe that teams that have a proven commitment to creating an inclusive space, perform and hire better.
+						</p>
+					</div>
+				</div>	
+						
 			</div>
 		</div>
 	</section>
 
 	<section class="section has-background-light">
 		<h2 class="title is-3 has-text-weight-medium has-text-centered">
-			Things I REALLY love
+			Please talk to me about:
 		</h2>
 			
 		<div class="tags are-large is-centered">

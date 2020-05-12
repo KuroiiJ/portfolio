@@ -29,6 +29,7 @@
                           <span class="tag is-warning is-light">Express</span>
                           <span class="tag is-link is-light">PWA's</span>
                           <span class="tag is-success is-light">Electron</span>
+                          <span class="tag is-primary is-light">Socket IO</span>
 
                           
                         </div>
