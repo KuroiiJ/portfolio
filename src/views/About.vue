@@ -170,10 +170,10 @@
 						</h3>
 						<ul>
 							<li>Carol Danvers</li>
-							<li>Hellcat: Patty Walker</li>
+							<li>Hellcat</li>
 							<li>Jessica Jones</li>
 							<li>Spider-Gwen</li>
-							<li>Ahsoka Tano</li>
+							<li>Spider-Man</li>
 							<li>Khamala Khan</li>
 						</ul>
 					</div>
