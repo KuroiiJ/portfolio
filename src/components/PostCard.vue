@@ -26,10 +26,7 @@
 					<div class="tags are-small is-centered">
 						<div v-for="tech in Tech" v-bind:key="tech">
 							<span class="tag is-primary is-light">{{tech}}</span>
-
-
 						</div>
-
 					</div>
 				</div>
 				

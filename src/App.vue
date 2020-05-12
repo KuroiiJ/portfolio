@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <nav class="navbar" role="navigation" aria-label="main navigation">
+    <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <router-link class="navbar-item" to="/">
           <img src="./assets/vertical-logo.png" height="100">

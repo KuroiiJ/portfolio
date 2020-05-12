@@ -22,10 +22,15 @@
 	<section class="section has-background-light">
 		<div class="container">
 			<h2 class="title is-3 has-text-weight-medium has-text-centered">
-				Pitch?
+				Story
 
 			</h2>
 			<p>
+			I usually start a self-introduction by saying it all began when I watched Star Wars
+			for the first time in kindergarten, and that it's been pretty much that ever since.
+			But since you're on my website, I'll assume you want to know a bit about how I got
+			around to taking up software engineering! <br/> <br/>
+			
 			After several years working near exclusively with developers, focused on marketing a developer tool to developers, and attending developer events;
 			I realized that somewhere along the way I'd developed a desire to step into the world I'd been auditing.  
 			</p>
@@ -40,7 +45,7 @@
 		</h2>
 			
 		<div class="container">
-			<div class="columns  ">
+			<div class="columns is-multilined ">
 				<div class="column  ">
 					<div class="box">
 						<h3 class="title is-4 has-text-weight-medium">
@@ -98,19 +103,84 @@
 
 	<section class="section has-background-light">
 		<h2 class="title is-3 has-text-weight-medium has-text-centered">
-			Please talk to me about:
+			Some of my favorite things:
 		</h2>
 			
 		<div class="tags are-large is-centered">
-                          <span class="tag is-primary is-light">Star Wars</span>
-                          <span class="tag is-link is-light">Dogs</span>
-                          <span class="tag is-info is-light">Board Games</span>
-                          <span class="tag is-success is-light">Indie RPGs</span>
-                          <span class="tag is-warning is-light">Red Pandas</span>
-                          <span class="tag is-link is-light">Skiing</span>
-                          <span class="tag is-info is-light">Chocolate</span>
-                          
-                        </div>
+			<span class="tag is-primary is-light">Star Wars</span>
+			<span class="tag is-link is-light">Dogs</span>
+			<span class="tag is-info is-light">Board Games</span>
+			<span class="tag is-success is-light">Indie RPGs</span>
+			<span class="tag is-warning is-light">Red Pandas</span>
+			<span class="tag is-link is-light">Skiing</span>
+			<span class="tag is-info is-light">Chocolate</span>       
+        </div>
+
+		<div class="container">
+			<div class="columns is-multilined ">
+				<div class="column has-background-warning is-one-quarter">
+					<div class="box">
+						<h3 class="title is-4 has-text-weight-medium">
+							Top Board Games
+						</h3>
+						<ul>
+							<li>Gloomhaven</li>
+							<li>Near and Far</li>
+							<li>Imperial Assault</li>
+							<li>Too Many Bones</li>
+							<li>Arkham Horror</li>
+							<li>Spirit Island</li>
+						</ul>
+					</div>
+				</div>
+				<div class="column has-background-link is-one-quarter">
+					<div class="box">
+						<h3 class="title is-4 has-text-weight-medium">
+							Star Wars Ranking
+						</h3>
+						<ul>
+							<li>Empire Strikes Back</li>
+							<li>Rogue One</li>
+							<li>Return of the Jedi</li>
+							<li>A New Hope</li>
+							<li>Animated Clone Wars</li>
+							<li>Prequels / Rebels</li>
+						</ul>
+					</div>
+				</div>
+				<div class="column has-background-danger is-one-quarter">
+					<div class="box">
+						<h3 class="title is-4 has-text-weight-medium">
+							Favorite TRPGs
+						</h3>
+						<ul>
+							<li>Edge of the Empire</li>
+							<li>One Last Job</li>
+							<li>Burning Wheel</li>
+							<li>Feng Shui 2</li>
+							<li>Genesys</li>
+							<li>Spirit of the Century</li>
+						</ul>
+					</div>
+				</div>
+				<div class="column has-background-primary is-one-quarter">
+					<div class="box">
+						<h3 class="title is-4 has-text-weight-medium">
+							Superheroes
+						</h3>
+						<ul>
+							<li>Carol Danvers</li>
+							<li>Hellcat: Patty Walker</li>
+							<li>Jessica Jones</li>
+							<li>Spider-Gwen</li>
+							<li>Ahsoka Tano</li>
+							<li>Khamala Khan</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+			
 	</section>
 
 
