@@ -44,7 +44,7 @@
                 
 				try{
 					const response = await ProjectsService.getProjects()
-					console.log(response.data.records)
+					
 					self.airtableResponse = response.data.records
 				}catch(err){
 					console.log(err)
@@ -63,11 +63,16 @@
 							date: self.airtableResponse[i].fields["Date Published"],
 							snippet: self.airtableResponse[i].fields.Excerpt,
 							image: self.airtableResponse[i].fields.Image[0].url,
-							slug: self.airtableResponse[i].fields.slug
+							slug: self.airtableResponse[i].fields.slug,
+							Github: self.airtableResponse[i].fields.Github,
+							Deployed: self.airtableResponse[i].fields.Deployed,
+							Tech: self.airtableResponse[i].fields.Tech
+							
 						}
 						projectList.push(project)
 					}
 				}
+				console.log("plist", projectList)
 				return projectList
 			}
 		}

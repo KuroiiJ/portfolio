@@ -1,9 +1,9 @@
 <template>
 	<div class="post-card">
-		<router-link :to="'/project/'+slug">
+		
 		<div class="card">
 			<div class="card-image">
-				<figure class="image is-250x250">
+				<figure class="image is-square">
 					<img :src="image" alt="Placeholder image">
 				</figure>
 			</div>
@@ -15,11 +15,27 @@
 				</div>
 				<div class="content">
 					<p>{{snippet}}</p>
-					<button class="button is-fullwidth">View Project</button>
+					<p class="buttons is-centered">
+					
+						<button class="button">
+							<span><a :href="Deployed">View Project</a></span></button>
+						<button class="button">
+							<span><a :href="Github"><font-awesome-icon :icon="['fab', 'github']" /> GitHub </a></span>
+						</button>
+					</p>
+					<div class="tags are-small is-centered">
+						<div v-for="tech in Tech" v-bind:key="tech">
+							<span class="tag is-primary is-light">{{tech}}</span>
+
+
+						</div>
+
+					</div>
 				</div>
+				
 			</div>
 		</div>
-		</router-link>
+		
 	</div>
 </template>
 
@@ -31,7 +47,12 @@
 			date: String,
 			snippet: String,
 			image: String,
-			slug: String
+			slug: String,
+			Tech: Array, 
+			Github: String,
+			Deployed: String
 		}
 	};
 </script>
+
+
