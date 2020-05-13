@@ -10,7 +10,7 @@
                         </figure>
                     </div>
                     <div class="column">
-                        <h1 class="title is-1"> <span class="multicolortext">I'm Chloé Jandsten</span></h1>
+                        <h1 class="title is-2"> <span class="multicolortext">I'm Chloé Jandsten</span></h1>
                         <br />
                         <h3 class="subtitle is-3">I am a NYC-based fullstack software engineer with a background in developer marketing, account management, and start-ups.</h3>
                         <br />
