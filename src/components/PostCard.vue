@@ -3,7 +3,7 @@
 		
 		<div class="card">
 			<div class="card-image">
-				<figure class="image is-square">
+				<figure class="image is-5by4">
 					<img :src="image" alt="Placeholder image">
 				</figure>
 			</div>

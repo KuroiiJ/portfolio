@@ -26,13 +26,18 @@
 
 			</h2>
 			<p>
-			I usually start a self-introduction by saying it all began when I watched Star Wars
-			for the first time in kindergarten, and that it's been pretty much that ever since.
-			But since you're on my website, I'll assume you want to know a bit about how I got
-			around to taking up software engineering! <br/> <br/>
+			I usually start a self-introduction by saying: it all began when I watched Star Wars for the first time in kindergarten, and that it's been pretty much… that ever since. But, since you're on my site, I'll assume you want to know a bit more about me as a software engineer. 
+ 
+<br/> <br/>  
+Coming from years spent at start-ups, I’m comfortable owning large and small projects and collaborating with various teams to ensure their completion. Because of that, before even beginning to code a project, I invest in planning. From figuring out specifically what problems are being solved, working out a functionable and scalable system design, through to mapping out a clean user experience. I aim to avoid code debt by being smart and intentional about the process. Taking the time to ask and discuss questions and possible problems up front is a time investment that I want to take.
+ 
+<br/> <br/>  
+ 
+When it gets to it, I care about writing high quality, human readable, and DRY code. There’s a unique enjoyment that comes from code that makes debugging possible and limits human error. Going along with this, I also immerse myself in exploring multiple methods of solving the same problem, and understanding the circumstances for when each option is optimal. I like to have opinions, and a strong understanding of why coding choices are made. A huge part of being an engineer is having an instinct for the best way to solve challenges, and for finding the right tools for the job.
+
 			
-			After several years working near exclusively with developers, focused on marketing a developer tool to developers, and attending developer events;
-			I realized that somewhere along the way I'd developed a desire to step into the world I'd been auditing.  
+
+
 			</p>
 			
 		</div>
