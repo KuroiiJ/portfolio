@@ -20,9 +20,11 @@
 		<section class="section">
 			<div class="container is-fluid">
 				<div class="columns is-multiline">
+					<div class="is-reverse">
 						<div class="column is-one-third" v-for="project in projects" v-bind:key="project.slug">
 							<post-card v-bind="project"></post-card>
-						</div>				
+						</div>		
+					</div>		
 				</div>
 			</div>
 		</section>
@@ -30,6 +32,14 @@
 </template>
 
 <style type="text/css">
+
+.is-reverse {
+    flex-direction: row-reverse;
+	flex-wrap: wrap;
+	justify-content: flex-end;
+    display: flex;
+  }
+
 </style>
 
 <script>
