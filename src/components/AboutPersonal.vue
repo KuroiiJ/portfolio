@@ -6,8 +6,8 @@
 		</h2>
 			
 		<div class="container">
-			<div class="columns is-multilined ">
-				<div class="column  ">
+			<div class="columns is-centered is-multiline">
+				<div class="column is-one-third ">
 					<div class="box">
 						<h3 class="title is-4 has-text-weight-medium">
 							Have a Voice
@@ -17,7 +17,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="column">
+				<div class="column is-one-third">
 					<div class="box">
 						<h3 class="title is-4 has-text-weight-medium">
 							Bring Passion
@@ -27,7 +27,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="column">
+				<div class="column is-one-third">
 					<div class="box">
 						<h3 class="title is-4 has-text-weight-medium">
 							Understand Impact
@@ -37,7 +37,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="column">
+				<div class="column is-one-third">
 					<div class="box">
 						<h3 class="title is-4 has-text-weight-medium">
 							Be Agile
@@ -47,7 +47,7 @@
 						</p>
 					</div>
 				</div>
-				<div class="column">
+				<div class="column is-one-third">
 					<div class="box">
 						<h3 class="title is-4 has-text-weight-medium">
 							Invest in Inclusivity
