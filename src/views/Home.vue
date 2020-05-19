@@ -11,6 +11,7 @@
                     </div>
                     <div class="column">
                         <h1 class="title is-2"> <span class="multicolortext">I'm Chloé Jandsten</span></h1>
+                        <h2 class="subtitle is-4 is-muted">(my dog is Hondo <font-awesome-icon :icon="['fas', 'paw']" />) </h2>
                         <br />
                         <h3 class="subtitle is-3">I am a NYC-based fullstack software engineer with a background in developer marketing, account management, and start-ups.</h3>
                         <br />
