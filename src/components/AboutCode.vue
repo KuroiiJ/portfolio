@@ -33,7 +33,7 @@
 									Human Readable
 								</h3>
 								<p>
-									This is so much more than a buzzword! I am determined to make my code understandable to other engineers. I advocate for simple things: A clear file structure, well named components and variables, and small components. I also don’t hesitate to put comments in my code to clarify or state what is happening when needed. 
+									I am determined to make my code understandable to other engineers. I advocate for simple things: A clear file structure, well named variables, and small components. I also don’t hesitate to put comments in my code to clarify or state what is happening when needed. 
 								</p>
 							</div>
 						</div>
@@ -48,10 +48,10 @@
 						<div class="media-content mt-50">
 							<div class="content">
 								<h3 class="title is-4 has-text-weight-medium">
-									DRY
+									DRY (Don't Repeat Yourself)
 								</h3>
 								<p>
-									I love making small components and reusing them wherever possible. When a change needs to be made to a website or app, I consider it a failure if it needs to be updated in multiple places. If I’m making the same axios call more than once, it’s going into a (clearly named) method. 
+									I make small and reusable components. When a change needs to be made to a website or app, I consider it a failure if it needs to be updated in multiple places. If the same information is being pulled from the database more than once, it’s going into a (clearly named) method. 
 								</p>
 							</div>
 						</div>
@@ -69,7 +69,7 @@
 									Scalable
 								</h3>
 								<p>
-									Scalability is hugely important. It’s great to have code that works, but 6 months down the road if that code needs to be refactored, it takes away from time that can be spent building. If there’s an issue that will come up in the future, deal with now. 
+									It’s great to have code that works, but 6 months down the road if that code needs to be refactored, it takes away from time that can be spent building. If there’s an issue that will come up in the future, deal with now. 
 								</p>
 							</div>
 						</div>
