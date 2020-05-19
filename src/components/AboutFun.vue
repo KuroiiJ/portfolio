@@ -1,8 +1,11 @@
 <template>
+    <div class="about-fun">
     <section class="section has-background-light">
             <h2 class="title is-3 has-text-weight-medium has-text-centered">
                 Some of my favorite things:
             </h2>
+
+            <br/>
                 
             <div class="tags are-large is-centered">
                 <span class="tag is-primary is-light">Star Wars</span>
@@ -17,17 +20,17 @@
             <div class="container">
                 <div class="columns is-multilined ">
                     <div class="column has-background-warning is-one-quarter">
-                        <div class="box">
+                        <div class="box is-warning">
                             <h3 class="title is-4 has-text-weight-medium">
                                 Top Board Games
                             </h3>
                             <ul>
-                                <li>Gloomhaven</li>
                                 <li>Near and Far</li>
                                 <li>Imperial Assault</li>
                                 <li>Too Many Bones</li>
                                 <li>Arkham Horror</li>
                                 <li>Spirit Island</li>
+                                <li>Gloomhaven</li>
                             </ul>
                         </div>
                     </div>
@@ -80,6 +83,7 @@
             </div>
                 
         </section>
+        </div>
     </template>
 
 <script>
