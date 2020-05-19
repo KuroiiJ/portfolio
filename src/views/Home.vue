@@ -20,6 +20,7 @@
                           <span class="tag is-link is-light">Node.js</span>
                           <span class="tag is-info is-light">React</span>
                           <span class="tag is-success is-light">Redux</span>
+                          <span class="tag is-link is-light">PWA's</span>
                           <span class="tag is-warning is-light">CSS/HTML</span>
                           <span class="tag is-info is-light">VueJS</span>
                           <span class="tag is-warning is-light">PostgreSQL</span>
@@ -27,7 +28,6 @@
                           <span class="tag is-primary is-light">Airtable</span>
                           <span class="tag is-info is-light">PUG</span>
                           <span class="tag is-warning is-light">Express</span>
-                          <span class="tag is-link is-light">PWA's</span>
                           <span class="tag is-success is-light">Electron</span>
                           <span class="tag is-primary is-light">Socket IO</span>
                           

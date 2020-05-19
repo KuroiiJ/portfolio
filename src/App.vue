@@ -105,5 +105,8 @@ footer {
 
 <style lang="sass">
 $info: #00CED1;
+
 @import "~bulma/bulma.sass"
 </style>
+
+// $box-background-color: random_element('red', 'green', 'blue', '#fff');

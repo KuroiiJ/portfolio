@@ -192,6 +192,9 @@ When it gets to it, I care about writing high quality, human readable, and DRY c
   </div>
 </template>
 
+<style>
+</style>
+
 <script>
 
 export default {
