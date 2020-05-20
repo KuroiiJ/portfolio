@@ -39,7 +39,7 @@ export default new Router({
       component: Project
      },
      {
-      path: "/.well-known/acme-challenge/WJRRhpMMH9wnlgvYexw2v_puU6ymMfOvR2fmdSdrwyM",
+      path: "/.well-known/acme-challenge/E4VFBF789IUvFhpa2oPoRjkKakrie7XmbbNbZOXm5oE",
       name: "cert",
       component: Cert
      }
