@@ -5,7 +5,6 @@ import About from "./views/About.vue";
 import Contact from "./views/Contact.vue";
 import Projects from "./views/Projects.vue"
 import Project from "./views/Project.vue"
-import Cert from "./views/Cert.vue"
 
 Vue.use(Router);
 
@@ -37,11 +36,6 @@ export default new Router({
       path: "/project/:slug",
       name: "project",
       component: Project
-     },
-     {
-      path: "/.well-known/acme-challenge/E4VFBF789IUvFhpa2oPoRjkKakrie7XmbbNbZOXm5oE",
-      name: "cert",
-      component: Cert
      }
   ]
 });
