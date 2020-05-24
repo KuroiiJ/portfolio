@@ -6,15 +6,24 @@
             </h2>
 
             <br/>
-                
-            <div class="tags are-large is-centered">
-                <span class="tag is-primary is-light">Star Wars</span>
-                <span class="tag is-link is-light">Dogs</span>
-                <span class="tag is-info is-light">Board Games</span>
-                <span class="tag is-success is-light">Indie RPGs</span>
-                <span class="tag is-warning is-light">Red Pandas</span>
-                <span class="tag is-link is-light">Skiing</span>
-                <span class="tag is-info is-light">Chocolate</span>       
+            <div class="container">
+                <div class="columns is-centered is-multilined has-text-centered">
+                    <div class="column is-two-thirds">    
+                        <div class="tags are-large is-centered">
+                            <span class="tag is-primary is-light">Star Wars</span>
+                            <span class="tag is-warning is-light">Stardew Valley</span> 
+                            <span class="tag is-link is-light">Dogs</span>
+                            <span class="tag is-info is-light">Board Games</span>
+                            <span class="tag is-success is-light">Indie RPGs</span>
+                            <span class="tag is-warning is-light">Red Pandas</span>
+                            <span class="tag is-link is-light">Skiing</span>
+                            <span class="tag is-info is-light">Tibetan Foxes</span>
+                            <span class="tag is-warning is-light">She-Ra</span>
+                            <span class="tag is-link is-light">Chocolate</span>     
+                             
+                        </div>
+                    </div>
+                </div>
             </div>
 
             <br/>
@@ -25,7 +34,7 @@
                     <div class="column has-text-warning is-one-quarter">
                         <article>
                             <h3 class="title is-4 has-text-warning has-text-weight-medium">
-                                Top Board Games
+                                🔥 Board Games
                             </h3>
                             <ul>
                                 <li>Near and Far</li>
@@ -55,7 +64,7 @@
                     <div class="column has-text-warning is-one-quarter">
                         <article >
                             <h3 class="title is-4 has-text-warning has-text-weight-medium">
-                                Favorite TRPGs
+                                Fave TRPGs
                             </h3>
                             <ul>
                                 <li>Edge of the Empire</li>
@@ -70,7 +79,7 @@
                     <div class="column has-text-link is-one-quarter">
                         <article>
                             <h3 class="title  has-text-link is-4 has-text-weight-medium">
-                                Superheroes
+                                Superheroes I 💖
                             </h3>
                             <ul>
                                 <li>Carol Danvers</li>
