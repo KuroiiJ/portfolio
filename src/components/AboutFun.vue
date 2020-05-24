@@ -17,11 +17,14 @@
                 <span class="tag is-info is-light">Chocolate</span>       
             </div>
 
+            <br/>
+            <br/>
+
             <div class="container">
-                <div class="columns is-multilined ">
-                    <div class="column has-background-warning is-one-quarter">
-                        <div class="box is-warning">
-                            <h3 class="title is-4 has-text-weight-medium">
+                <div class="columns is-multilined has-text-centered">
+                    <div class="column has-text-warning is-one-quarter">
+                        <article>
+                            <h3 class="title is-4 has-text-warning has-text-weight-medium">
                                 Top Board Games
                             </h3>
                             <ul>
@@ -32,11 +35,11 @@
                                 <li>Spirit Island</li>
                                 <li>Gloomhaven</li>
                             </ul>
-                        </div>
+                        </article>
                     </div>
-                    <div class="column has-background-link is-one-quarter">
-                        <div class="box">
-                            <h3 class="title is-4 has-text-weight-medium">
+                    <div class="column has-text-link is-one-quarter">
+                        <article>
+                            <h3 class="title has-text-link is-4 has-text-weight-medium">
                                 Star Wars Ranking
                             </h3>
                             <ul>
@@ -47,11 +50,11 @@
                                 <li>Rebels (animated)</li>
                                 <li>Clone Wars (animated)</li>
                             </ul>
-                        </div>
+                        </article>
                     </div>
-                    <div class="column has-background-danger is-one-quarter">
-                        <div class="box">
-                            <h3 class="title is-4 has-text-weight-medium">
+                    <div class="column has-text-warning is-one-quarter">
+                        <article >
+                            <h3 class="title is-4 has-text-warning has-text-weight-medium">
                                 Favorite TRPGs
                             </h3>
                             <ul>
@@ -62,11 +65,11 @@
                                 <li>Genesys</li>
                                 <li>Spirit of the Century</li>
                             </ul>
-                        </div>
+                        </article>
                     </div>
-                    <div class="column has-background-primary is-one-quarter">
-                        <div class="box">
-                            <h3 class="title is-4 has-text-weight-medium">
+                    <div class="column has-text-link is-one-quarter">
+                        <article>
+                            <h3 class="title  has-text-link is-4 has-text-weight-medium">
                                 Superheroes
                             </h3>
                             <ul>
@@ -77,7 +80,7 @@
                                 <li>Spider-Man</li>
                                 <li>Khamala Khan</li>
                             </ul>
-                        </div>
+                        </article>
                     </div>
                 </div>
             </div>

@@ -93,7 +93,7 @@
   overflow: hidden;
   display: block;
   position: relative;
-  padding-bottom: 168px; /* height of your footer */
+  padding-bottom: 100px; /* height of your footer */
 }
 footer {
  position: absolute;
@@ -105,8 +105,10 @@ footer {
 
 <style lang="sass">
 $info: #00CED1;
+$footer-padding: 2.5rem 1.5rem 2.5rem;
+$box-background-color: #FEF2E9;
+$warning: #E0115F;
+$link: #1520a6;
 
 @import "~bulma/bulma.sass"
 </style>
-
-// $box-background-color: random_element('red', 'green', 'blue', '#fff');

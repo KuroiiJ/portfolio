@@ -17,7 +17,7 @@
                         <br />
                         <h3 class="subtitle is-4">Some tech I'm into:</h3>
                         <div class="tags are-medium">
-                          <span class="tag is-primary is-light">Javascript</span>
+                          <span class="tag is-warning is-light">Javascript</span>
                           <span class="tag is-link is-light">Node.js</span>
                           <span class="tag is-info is-light">React</span>
                           <span class="tag is-success is-light">Redux</span>

@@ -19,7 +19,7 @@
 		</section>
 		<section class="section">
 			<div class="container is-fluid">
-				<div class="columns is-multiline">
+				<div class="columns is-centered is-multiline">
 					<div class="is-reverse">
 						<div class="column is-one-third" v-for="project in projects" v-bind:key="project.slug">
 							<post-card v-bind="project"></post-card>
