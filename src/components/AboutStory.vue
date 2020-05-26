@@ -12,6 +12,8 @@
 			
 			
 			<br/> <br/>  
+			I am a NYC-based fullstack software engineer with a background in developer marketing, account management, and start-ups. 
+			I love mixing those fields to create well thought out apps that don't cut corners or sacrifice quality. 
 			Coming from years spent at start-ups, I’m comfortable owning large and small projects and collaborating with various teams 
 			to ensure their completion. Before beginning to code a project, I heavily invest in planning. From clarifying 
 			specifically which problems are being solved, designing a functional and scalable system, through to mapping 
