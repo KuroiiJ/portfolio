@@ -45,7 +45,7 @@
 
 <style>
   .multicolortext {
-    background-image: linear-gradient(to left, violet, indigo, blue, red, orange, orange, red);
+    background-image: linear-gradient(to left, red, orange, orange, red, orange, orange, red);
     -webkit-background-clip: text;
     -moz-background-clip: text;
     background-clip: text;

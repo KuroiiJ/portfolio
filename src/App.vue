@@ -104,7 +104,8 @@ footer {
 </style>
 
 <style lang="sass">
-$info: #00CED1;
+$info: #4b0082;
+$burnt: #8a1400;
 $footer-padding: 2.5rem 1.5rem 2.5rem;
 $box-background-color: #FEF2E9;
 $warning: #E0115F;
