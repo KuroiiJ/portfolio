@@ -101,6 +101,7 @@ footer {
  width: 100%;
 }
 
+
 </style>
 
 <style lang="sass">
@@ -110,6 +111,7 @@ $footer-padding: 2.5rem 1.5rem 2.5rem;
 $box-background-color: #FEF2E9;
 $warning: #E0115F;
 $link: #1520a6;
+
 
 @import "~bulma/bulma.sass"
 </style>

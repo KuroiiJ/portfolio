@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="hero is-cover is-relative is-fullheight-with-navbar is-info is-bold">
+    <div class="hero is-cover is-relative is-fullheight-with-navbar bg-home is-bold">
         <div class="hero-body">
             <div class="container">
                 <div class="columns is-vcentered">
@@ -9,13 +9,15 @@
                           <img class="is-rounded" src="../assets/c-and-h.jpg">
                         </figure>
                     </div>
-                    <div class="column">
+                    <div class="column" >
+                    
                         <h1 class="title is-2"> <span class="multicolortext">I'm Chloé Jandsten</span></h1>
-                        <h2 class="subtitle is-4 is-muted">(my dog is Hondo <font-awesome-icon :icon="['fas', 'paw']" />) </h2>
+                        <h2 class="subtitle is-4 is-muted"><span class="white-text">(my dog is Hondo <font-awesome-icon :icon="['fas', 'paw']" />)</span></h2>
                         <br />
-                        <h3 class="subtitle is-3">I am a NYC-based fullstack software engineer with a background in developer marketing, account management, and start-ups.</h3>
+                        <h3 class="subtitle is-3"><span class="white-text">I am a NYC-based fullstack software engineer with a background in developer marketing, account management, and start-ups.</span></h3>
                         <br />
-                        <h3 class="subtitle is-4">Some tech I'm into:</h3>
+                        <h3 class="subtitle is-4"><span class="white-text">Some tech I'm currently using:</span></h3>
+                    
                         <div class="tags are-medium">
                           <span class="tag is-warning is-light">Javascript</span>
                           <span class="tag is-link is-light">Node.js</span>
@@ -30,7 +32,7 @@
                           <span class="tag is-info is-light">PUG</span>
                           <span class="tag is-warning is-light">Express</span>
                           <span class="tag is-success is-light">Electron</span>
-                          <span class="tag is-primary is-light">Socket IO</span>
+                          <span class="tag is-primary is-light">Sockets</span>
                           
                         </div>
                     </div>
@@ -51,7 +53,15 @@
     background-clip: text;
     color: transparent;
   }
+  .bg-home {
+    background: linear-gradient(to left, #4b0082,#4b0082,#4b0082,#4b0082, #c83200);
+    
+  }
+  .white-text {
+    color: #f5deb3;
+  }
 
+  
 </style>
 
 <script>

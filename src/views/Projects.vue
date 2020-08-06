@@ -13,6 +13,23 @@
 			</div>
 		</div>
 		</section>
+		<section class="section has-background-light">
+		<div class="container">
+			<h2 class="title is-3 has-text-weight-medium has-text-centered">
+				I love building apps
+			</h2>
+
+			<!--  <p class="has-text-grey-dark">
+			This section always needs to be updated, because there are constantly new projects I'm working on. 
+			I strongly believe that the best way to become a better engineer is to write code all the time. 
+			
+		
+			
+			
+			</p> -->
+			
+		</div>
+		</section>
 		<section class="section">
 			<div class="container is-fluid">
 				<div class="columns is-centered is-multiline">
